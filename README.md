@@ -4,4 +4,4 @@ C++ Program that allows users to place or remove 8 chess queens on a 8x8 chess b
 
 Uses a backtracking algorithm to determine if a Queen placement is valid and makes use of pointer manipulation to visualize the board layout.
 
-![image](https://user-images.githubusercontent.com/60438191/124111718-969f2280-da37-11eb-9bc6-7c1485be516d.png)
+![image](https://user-images.githubusercontent.com/60438191/124111804-aae31f80-da37-11eb-8bb2-fdd55fc58128.png)
